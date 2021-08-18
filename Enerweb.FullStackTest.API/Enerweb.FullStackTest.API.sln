@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enerweb.FullStackTest.API", "Enerweb.FullStackTest.API\Enerweb.FullStackTest.API.csproj", "{FBD381E0-80D3-4AD5-93CE-E6E30E281F2D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FBD381E0-80D3-4AD5-93CE-E6E30E281F2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBD381E0-80D3-4AD5-93CE-E6E30E281F2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBD381E0-80D3-4AD5-93CE-E6E30E281F2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBD381E0-80D3-4AD5-93CE-E6E30E281F2D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {05CCDF02-CC5F-47E9-BE41-43C725A7F989}
+	EndGlobalSection
+EndGlobal
